@@ -1,0 +1,6 @@
+.git
+.gitignore
+.openai
+.sites-runtime
+Dockerfile
+.dockerignore
